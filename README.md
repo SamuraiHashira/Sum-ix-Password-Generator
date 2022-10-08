@@ -1,2 +1,2 @@
 # Password-Generator by @Samurai
-Create your new powerful password easly
+Create your new  password easily 
